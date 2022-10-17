@@ -1,0 +1,14 @@
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.exe
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.deps.json
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.runtimeconfig.json
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.runtimeconfig.dev.json
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.dll
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\bin\Debug\netcoreapp3.1\ConsoleFlappyBird.pdb
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.csproj.AssemblyReference.cache
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.AssemblyInfoInputs.cache
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.AssemblyInfo.cs
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.dll
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.pdb
+C:\Users\bar\source\repos\ConsoleFlappyBird\ConsoleFlappyBird\obj\Debug\netcoreapp3.1\ConsoleFlappyBird.genruntimeconfig.cache
